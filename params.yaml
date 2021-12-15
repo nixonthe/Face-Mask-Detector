@@ -1,0 +1,7 @@
+image_size: [224, 224]
+batch_size: 8192
+epochs: 10
+train_folder: 'data/Train'
+validation_folder: 'data/Validation'
+test_folder: 'data/Test'
+model_name: 'face_mask_detector'
