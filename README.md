@@ -9,7 +9,7 @@ You can train simple CNN neural network and detect some faces by using your own 
 
 ## Demo
 
-Insert gif or link to demo
+![Figure_1](https://user-images.githubusercontent.com/64987384/146253420-7478d937-abdb-412e-ba58-24e2e6dc7055.png)
 
 
 ## Link to original dataset
